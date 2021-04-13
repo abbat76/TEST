@@ -1,0 +1,32 @@
+@font-face{
+	font-family: NewZelek;
+	src: url("../fonts/NewZelek.woff") format("woff"), url("../fonts/newzelek.woff2") format("woff2");
+}
+@font-face{
+		font-family: DynarShadow-Bold;
+		src: url("../fonts/DynarShadow-Bold.woff") format("woff"), url("../fonts/dynarshadow-bold.woff2") format("woff2");
+}
+@font-face{
+		font-family: Micra;
+		src: url("../fonts/Micra.woff") format("woff"), url("../fonts/micra_.woff2") format("woff2");
+}
+@font-face{
+		font-family: Capture;
+		src: url("../fonts/Captureit.woff") format("woff"), url("../fonts/capture-it.woff2") format("woff2");
+}
+@font-face{
+		font-family: Stencil;
+		src: url("../fonts/Stencil.woff") format("woff"), url("../fonts/stencil_.woff2") format("woff2");
+}
+@font-face{
+		font-family: Hermes;
+		src: url("../fonts/Hermes.woff") format("woff"), url("../fonts/hermes_.woff2") format("woff2");
+}
+@font-face{
+		font-family: nasalization;
+		src: url("../fonts/nasalization.woff") format("woff"), url("../fonts/nasalization.woff2") format("woff2");
+}
+@font-face{
+		font-family: UnicephalonCyrillic;
+		src: url("../fonts/UnicephalonCyrillic.woff") format("woff"), url("../fonts/UnicephalonCyrillic.woff2") format("woff2");
+}
